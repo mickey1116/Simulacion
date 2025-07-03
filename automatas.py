@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
+# Prueba
+
 # Parámetros
 size = 100  # Tamaño de la membrana (100x100)
 c = 0.2     # Velocidad de propagación (debe ser < 1 para estabilidad)
